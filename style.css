@@ -1,0 +1,52 @@
+<style type="text/css"> <!--
+  body { font-family:Arial, Helvetica, Geneva, sans-serif;
+    background-color:#888888; margin:1px;text-align: center; }
+  body, td { font-size:14px; color:#333333; }
+  small { font-size:0.85em; }
+  a { font-weight:; color: #004080;
+    text-decoration: none; }
+  a:visited { font-weight:bold; color:#006699;
+    text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  img { border:0px; }
+  table{
+  	border="0" ;
+  	style="background-color:#FFFFFF" ;
+  	width="200" ;
+  	cellpadding="1" ;
+  	cellspacing="1" ;
+  	align="center";
+  }
+
+#everything{
+	position: relative;
+	margin: 0 auto; 
+	width: 600px;
+
+	
+	border: #aaaaaa solid 3px;
+	
+	background-color:#d8d8d8;
+	margin-top: 3em;
+
+	
+}
+  #login {
+  position: relative;
+  width: 200px;
+text-align: center;
+  margin: 0 auto;
+  		
+  }
+  
+  #nuser{
+	
+  	position: relative;
+  	text-align: center;
+  	
+
+  }
+
+	
+	
+ </style>
